@@ -28,4 +28,4 @@ projects: []
 slides: ""
 ---
 
-Suggested Citation: Awsaf, A.A., Cian, H., & Dou, R.  (2024, March). A Systematic Literature Review of Survey Research on Engineering Identity[Presentation]. 2024 NARST Annual International Conference, Denver, CO.
+Suggested Citation: Awsaf, A.A., Cian, H., & Dou, R.  (2024, March). A Systematic Literature Review of Survey Research on Engineering Identity[Presentation]. 2024 NARST Annual International Conference, Denver, CO. https://doi.org/10.48550/arXiv.2610.00013
