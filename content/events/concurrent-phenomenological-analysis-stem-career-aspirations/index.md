@@ -29,4 +29,4 @@ projects: []
 slides: ""
 ---
 
-Suggested Citation: Awsaf, A.A., Giasanti, N., Sunbury, S., & Dou, R. (2025, March). Concurrent phenomenological analysis of STEM career aspirations in underrepresented youth: Role of experiences and identity [Presentation]. 2025 NARST Annual International Conference, National Harbor, MD.
+Suggested Citation: Awsaf, A.A., Giasanti, N., Sunbury, S., & Dou, R. (2025, March). Concurrent phenomenological analysis of STEM career aspirations in underrepresented youth: Role of experiences and identity [Presentation]. 2025 NARST Annual International Conference, National Harbor, MD. https://doi.org/10.48550/arXiv.2607.06035
