@@ -12,7 +12,7 @@ sections:
       text: ''
       button:
         text: Curriculum Vitae
-        url: "uploads/CV Amdad Ahmed Awsaf.pdf"
+        url: "uploads/AA.Awsaf CV 2026.pdf"
       headings:
         about: 'About Me'
         education: 'Education'
